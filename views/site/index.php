@@ -15,7 +15,7 @@ $this->title = 'My projects';
 
                 <p>Settings management component for Yii2 Framework.</p>
 
-                <p><a class="btn btn-default" href="<?php echo Url::to(['/yii2settings/index']); ?>">Yii2-settings &raquo;</a></p>
+                <p><a class="btn btn-default" href="<?php echo Url::to(['/yii2-settings/index']); ?>">Yii2-settings &raquo;</a></p>
             </div>
         </div>
 

@@ -21,3 +21,5 @@ echo SettingsForm::widget([
 echo '<pre>';
 echo Html::encode(print_r($site->getSetting(), true));
 echo '</pre>';
+
+echo Html::a('Source of this example',  'https://github.com/rafalkot/projects-site/blob/master/views/yii2-settings/example.php');
